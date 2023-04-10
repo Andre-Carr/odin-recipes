@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+    width: 70%;
+    margin-left: 5%;
+}
+
+
+/* Heading styles */
+h2, h3 {
+    font-family: "Arial Black", Arial, sans-serif;
+    padding-left: 2%
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    margin-top: 5%;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+/* Non-heading text styles */
+.text {
+    font-size: 18px;
+}
+
+p.text {
+    padding-left: 2%;
+}
+
+.text li {
+    padding-left: 1%;
+}
+
+
+
+/* Image styles */
+img {
+    height: auto;
+    width: 300px;
+}
+
+/* List styles */
+li {
+    padding-top: 1%;
+}
